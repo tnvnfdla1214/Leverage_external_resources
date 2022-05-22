@@ -7,7 +7,7 @@
 <img src = "https://user-images.githubusercontent.com/48902047/163483969-226570af-e232-4f1a-a35d-6ec0ec8986a9.jpg" width="20%" height="20%">
 <img src = "https://user-images.githubusercontent.com/48902047/163483977-382c6b2e-0fcf-4a84-b4ca-68ab50224596.jpg" width="20%" height="20%">
 </p>
-***
+
 + [코로나 센서 서비스](https://github.com/tnvnfdla1214/Covid19_Map)
   + [공공데이터_코로나19 예방접종 센터_API](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15077586)
   + 네이버 지도
@@ -19,7 +19,7 @@
 + [깃허브 레파지토리 클론 코딩](https://github.com/tnvnfdla1214/github_repository)
 
 ***
-### :lollipop: 설명 (MVVM 사용해보기)
+### :lollipop: 설명
 
 #### API 신청하기
 ![image](https://user-images.githubusercontent.com/48902047/169691361-3c61f936-cacb-47be-9313-d7a7ce11db8c.png)
